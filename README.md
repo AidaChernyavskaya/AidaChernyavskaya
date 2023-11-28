@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E0AF7&random=false&width=435&lines=Welcome+to+AidaChernyavskaya's+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E0AF7&random=false&width=435&lines=Welcome+to+Aida's+Github+Profile)](https://git.io/typing-svg)
 
 ### Hi 👋
 I'm Aida, Frontend developer from St Petersburg
